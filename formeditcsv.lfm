@@ -1,0 +1,71 @@
+object frmEditCsv: TfrmEditCsv
+  Left = 329
+  Height = 299
+  Top = 185
+  Width = 334
+  Caption = 'Редактор файла'
+  ClientHeight = 299
+  ClientWidth = 334
+  LCLVersion = '1.4.4.0'
+  object stgWords: TStringGrid
+    Left = 2
+    Height = 216
+    Top = 42
+    Width = 330
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Color = 13105145
+    ColCount = 2
+    Columns = <    
+      item
+        Color = 11138037
+        Title.Caption = 'Слово'
+        Width = 150
+      end    
+      item
+        Title.Caption = 'Перевод'
+        Width = 150
+      end>
+    FixedCols = 0
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goColSizing, goEditing, goAutoAddRows, goTabs, goAlwaysShowEditor, goDblClickAutoSize, goSmoothScroll]
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+    TitleStyle = tsNative
+  end
+  object btnSave: TButton
+    Left = 244
+    Height = 28
+    Top = 264
+    Width = 89
+    Anchors = [akRight, akBottom]
+    Caption = 'Сохранить'
+    ModalResult = 1
+    TabOrder = 1
+  end
+  object btnClose: TButton
+    Left = 142
+    Height = 28
+    Top = 264
+    Width = 89
+    Anchors = [akRight, akBottom]
+    Caption = 'Закрыть'
+    ModalResult = 11
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 2
+    Height = 17
+    Top = 12
+    Width = 35
+    Caption = 'Файл:'
+    ParentColor = False
+  end
+  object edtFileName: TEdit
+    Left = 48
+    Height = 27
+    Top = 6
+    Width = 284
+    Anchors = [akTop, akLeft, akRight]
+    Color = 13105145
+    TabOrder = 3
+  end
+end

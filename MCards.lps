@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="MCards.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="tmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="TMain"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="127"/>
+        <CursorPos X="7" Y="140"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="cards.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Cards"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="23" Y="71"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="nodes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="9"/>
+        <CursorPos X="8" Y="57"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="frmkeys.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmKeys"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="60" Y="7"/>
+        <UsageCount Value="28"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="appconfig.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="38" Y="39"/>
+        <UsageCount Value="25"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="keyvaluefile.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KeyValueFile"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos X="45" Y="159"/>
+        <UsageCount Value="25"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="formeditcsv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmEditCsv"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FormEditCsv"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="8"/>
+        <CursorPos X="27" Y="20"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="tcards.pas"/>
+        <UnitName Value="TCards"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="10"/>
+        <UsageCount Value="20"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/share/lazarus/1.4.4/lcl/buttons.pp"/>
+        <UnitName Value="Buttons"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/share/lazarus/1.4.4/lcl/comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3494"/>
+        <CursorPos X="3" Y="3503"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/share/lazarus/1.4.4/components/lazutils/fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/rtl/objpas/strutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="89"/>
+        <CursorPos X="17" Y="169"/>
+        <UsageCount Value="11"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="3" Y="103"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/share/lazarus/1.4.4/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="604"/>
+        <CursorPos X="14" Y="611"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/share/lazarus/1.4.4/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2915"/>
+        <CursorPos X="3" Y="2851"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="/usr/share/lazarus/1.4.4/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="3" Y="48"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="80" Column="7" TopLine="77"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="81" Column="7" TopLine="78"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="90" Column="42" TopLine="79"/>
+      </Position3>
+      <Position4>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="102" Column="69" TopLine="102"/>
+      </Position4>
+      <Position5>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="124" Column="49" TopLine="115"/>
+      </Position5>
+      <Position6>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="48" Column="8" TopLine="38"/>
+      </Position6>
+      <Position7>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="71" Column="12" TopLine="58"/>
+      </Position7>
+      <Position8>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="47" Column="8" TopLine="38"/>
+      </Position8>
+      <Position9>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="69" Column="10" TopLine="59"/>
+      </Position9>
+      <Position10>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="71" Column="43" TopLine="60"/>
+      </Position10>
+      <Position11>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="3" Column="32"/>
+      </Position11>
+      <Position12>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="19" Column="18" TopLine="3"/>
+      </Position12>
+      <Position13>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="104" Column="16" TopLine="88"/>
+      </Position13>
+      <Position14>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="104" Column="59" TopLine="88"/>
+      </Position14>
+      <Position15>
+        <Filename Value="formeditcsv.pas"/>
+        <Caret Line="6" Column="44"/>
+      </Position15>
+      <Position16>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="37" Column="46" TopLine="29"/>
+      </Position16>
+      <Position17>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="38" Column="46" TopLine="30"/>
+      </Position17>
+      <Position18>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="39" Column="46" TopLine="31"/>
+      </Position18>
+      <Position19>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="40" Column="46" TopLine="32"/>
+      </Position19>
+      <Position20>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="41" Column="46" TopLine="33"/>
+      </Position20>
+      <Position21>
+        <Filename Value="formeditcsv.pas"/>
+        <Caret Line="11" Column="60"/>
+      </Position21>
+      <Position22>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="42" Column="46" TopLine="34"/>
+      </Position22>
+      <Position23>
+        <Filename Value="cards.pas"/>
+        <Caret Line="56" Column="52" TopLine="36"/>
+      </Position23>
+      <Position24>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="85" Column="32" TopLine="71"/>
+      </Position24>
+      <Position25>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="86" Column="42" TopLine="82"/>
+      </Position25>
+      <Position26>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="154" Column="26" TopLine="149"/>
+      </Position26>
+      <Position27>
+        <Filename Value="formeditcsv.pas"/>
+        <Caret Line="6" Column="60"/>
+      </Position27>
+      <Position28>
+        <Filename Value="formeditcsv.pas"/>
+        <Caret Line="40" Column="9" TopLine="26"/>
+      </Position28>
+      <Position29>
+        <Filename Value="tmain.pas"/>
+        <Caret Line="138" Column="4" TopLine="127"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
